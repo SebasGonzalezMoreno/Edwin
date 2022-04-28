@@ -1,0 +1,67 @@
+body {
+  font-family: sans-serif;
+  background-color: darkblue;
+}
+
+.arriba {
+  display: flex;
+  justify-content: space-between;
+  padding: 0% 41% 0% 42%;
+  text-align: center;
+}
+
+.contenedorLetra {
+  margin-top: 6%;
+  background-color: blue;
+  border-radius: 50px;
+  height: 50px;
+  width: 50px;
+}
+
+.letra {
+  margin-top: 20%;
+  text-align: center;
+}
+
+.primeraSecion {
+  background-color: #89d4ff;
+  margin: -1%;
+  height: 190px;
+}
+
+.cajaText {
+  margin-top: 10%;
+  text-align: center;
+
+}
+
+.centrado2 {
+  background-color: #1457d4;
+  width: 30%;
+  margin-left: 35%;
+}
+
+input{
+    padding: 5px 70px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+.buton{
+  text-align: center;
+  padding: 1rem;
+}
+
+button{
+  width: 8rem;
+  height: 3rem;
+  background-color: #89d4ff;
+  border-radius: 2rem;
+}
+
+.parra{
+  color: white;
+  text-align: center;
+}
